@@ -1,0 +1,83 @@
+.ota1 {
+  display: flex;
+  gap: 20px;
+}
+
+.bola {
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: darkgray;
+}
+
+.q {
+  color: #000;
+}
+
+.bola2 {
+  border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: darkgray;
+  padding-right: 10px;
+}
+
+.bola3{
+    border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: darkgray;
+  padding-right: 10px;
+}
+
+.bola4{
+    border: 1px solid gray;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+  padding-left: 20px;
+  padding-top: 10px;
+  color: darkgray;
+  padding-right: 10px;
+}
+    
+  .bola5{
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: darkgray;
+    padding-right: 10px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
